@@ -18,7 +18,7 @@ logging.basicConfig(
 logging.getLogger().setLevel('DEBUG')
 
 TOKEN_FILE = 'token.txt'
-TOKEN = Path(TOKEN_FILE).read_text().strip()
+TOKEN ="7171428829:AAGIf6PxLuLTv-Pq4zdvu9rbF3zNX9qgfZg"
 AUTHORIZED_USERS = ['makukha']
 
 DURATION = 5
